@@ -1,8 +1,12 @@
 <html>
 <body>
-<h2>वो याद ही क्या , जिसमे तुम ना हो
-वो ख्वाब ही क्या, जिसमे तुम ना हो
-वो सपने भी क्या, जिसमे तुम ना हो
-वो तो मेरी किस्मत है, जिसमे तुम नहीं हो</h2>
+<h2>Bolti hai dosti 
+Chup rehta hai pyar
+Hasati hai dosti
+Rulata hai pyaar
+Milati hai dosti
+Juda karta hai pyaar
+Phir bhi kyun dosti chhodkar
+Log karte hain pyaarो</h2>
 </body>
 </html>
